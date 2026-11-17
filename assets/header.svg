@@ -31,8 +31,8 @@
   <rect x="276" y="220" width="48" height="2.5" rx="1" fill="#332f52" />
 
   <!-- Краткое био -->
-  <text x="44" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#867293">Computer graphics student & product interface designer</text>
-  <text x="44" y="281" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#867293">Focused on M3/WCAG design systems, 3D & creative tech</text>
+  <text x="44" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#867293">Computer graphics student &amp; product interface designer</text>
+  <text x="44" y="281" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#867293">Focused on M3/WCAG design systems, 3D &amp; creative tech</text>
 
   <!-- Нижняя строка -->
   <text x="44" y="352" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#444a77" letter-spacing="2">GENERATIVE DESIGN  /  SYSTEMS  /  VISUALS</text>
