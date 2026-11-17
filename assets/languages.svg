@@ -1,1 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 320" width="540" height="320" fill="none">
+  <rect x="1" y="1" width="538" height="318" rx="14" fill="#14070c" stroke="#332f52" stroke-width="1.5" />
 
+  <text x="28" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#4172ad" letter-spacing="2">LANGUAGES</text>
+  <text x="28" y="64" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0bdb9">What my code is made of</text>
+
+  <!-- 1-й язык (крупный круг) -->
+  <circle cx="268" cy="182" r="70" fill="#4172ad" />
+  <text x="268" y="179" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f6e8ea" text-anchor="middle">Python</text>
+  <text x="268" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#f0bdb9" text-anchor="middle">44%</text>
+
+  <!-- 2-й язык -->
+  <circle cx="404" cy="168" r="54" fill="#be96ae" />
+  <text x="404" y="165" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#14070c" text-anchor="middle">TypeScript</text>
+  <text x="404" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#23162b" text-anchor="middle">26%</text>
+
+  <!-- 3-й язык -->
+  <circle cx="144" cy="164" r="44" fill="#444a77" />
+  <text x="144" y="161" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#f0bdb9" text-anchor="middle">GLSL</text>
+  <text x="144" y="177" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#be96ae" text-anchor="middle">17%</text>
+
+  <!-- 4-й язык -->
+  <circle cx="94" cy="232" r="30" fill="#867293" />
+  <text x="94" y="230" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#14070c" text-anchor="middle">HTML</text>
+  <text x="94" y="243" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#14070c" text-anchor="middle">8%</text>
+
+  <!-- 5-й язык -->
+  <circle cx="182" cy="246" r="24" fill="#f0bdb9" />
+  <text x="182" y="249" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" fill="#14070c" text-anchor="middle">JSON</text>
+
+  <text x="28" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#867293">top repositories by byte share</text>
+</svg>
